@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Nimbus - Minimal Weather App**
-- 🌱 I’m currently diving into **React Native & App Development**
+- 🔭 I’m currently working on **LocalHelp - Redefined UrbanCompany for local communities**
+- 🌱 I’m currently diving into **Full Stack & App dev**
 - 🎯 Focused on building **clean, performant, and user-first applications**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**
 - 📫 Reach out to me at **paramkhodiyar1008@gmail.com**
-- ⚡ Fun fact: I love solving problems and bringing ideas to life!
+- ⚡ Fun fact: I love solving problems and bringing ideas to life with software!
 
 ---
 
