@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **LocalHelp - Redefined UrbanCompany for local communities**
+- 🔭 I’m currently working on **Propify - ValoraAI (Real Estate Listing with AI prediction of prices)**
 - 🌱 I’m currently diving into **Full Stack & App dev**
 - 🎯 Focused on building **clean, performant, and user-first applications**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**
@@ -30,7 +30,7 @@
   <a href="https://codeforces.com/profile/paramkhodiyar" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23456698.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.leetcode.com/paramk" target="_blank">
+  <a href="https://leetcode.com/u/JAbYTSi8T1" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+###  Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧠 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,13 +57,13 @@
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Data & Tools
+### Data & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paramkhodiyar&show_icons=true&theme=radical" alt="Param's GitHub Stats" />
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔍 Currently Exploring
-
-- 🔧 **TypeScript & Next.js SSR/ISR**
-- 📱 **Cross-Platform Mobile Apps with React Native**
+##  Currently Exploring
+- **ML training with Python using Kaggle Datasets**
+-  **TypeScript & Next.js SSR/ISR**
+-  **Cross-Platform Mobile Apps with React Native**
