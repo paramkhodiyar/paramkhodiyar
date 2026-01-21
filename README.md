@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Propify - ValoraAI (Real Estate Listing with AI prediction of prices)**
-- 🌱 I’m currently diving into **Full Stack & App dev**
+- 🌱 I’m currently diving into **Full Stack, App dev & ML Training**
 - 🎯 Focused on building **clean, performant, and user-first applications**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**
 - 📫 Reach out to me at **paramkhodiyar1008@gmail.com**
