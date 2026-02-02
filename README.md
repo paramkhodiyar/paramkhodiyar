@@ -73,17 +73,12 @@
 ---
 
 ##  GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paramkhodiyar&show_icons=true&theme=radical" alt="Param's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paramkhodiyar&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramkhodiyar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paramkhodiyar&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paramkhodiyar&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramkhodiyar&layout=compact&theme=radical" />
 </p>
 
 ---
