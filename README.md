@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Param Khodiyar</h1>
-<h3 align="center"></h3>
+<h3 align="center">Full Stack Developer • Building AI-driven products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building%20what%20matters.;Creating%20impactful%20projects.;Always%20learning%20something%20new!" />
@@ -7,14 +7,21 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=paramkhodiyar&theme=date-night&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Propify - ValoraAI (Real Estate Listing with AI prediction of prices)**
-- 🌱 I’m currently diving into **Full Stack, App dev & ML Training**
-- 🎯 Focused on building **clean, performant, and user-first applications**
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**
-- 📫 Reach out to me at **paramkhodiyar1008@gmail.com**
-- ⚡ Fun fact: I love solving problems and bringing ideas to life with software!
+- 🚀 Building **Propify – ValoraAI** (AI-powered real estate price prediction platform)  
+- 🌱 Exploring **Full Stack Engineering, Mobile Apps, and ML Training**  
+- 🧠 Focused on **performance, clean architecture, and real-world impact**  
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**  
+- 📫 **paramkhodiyar1008@gmail.com**  
+- ⚡ I enjoy turning ideas into production-ready software  
 
 ---
 
@@ -22,68 +29,74 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/paramkhodiyar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/paramkhodiyar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/paramkhodiyar" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23456698.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/JAbYTSi8T1" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-###  Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-###  Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-###  Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Data & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
 ---
 
-##  GitHub Stats
+## 🚀 Current Focus
+
+- 🤖 ML training with Python (Kaggle datasets)  
+- ⚡ TypeScript + Next.js (SSR / ISR)  
+- 📱 Cross-platform apps with React Native  
+- 🏗 Building scalable full-stack products  
+
+---
+
+## 🧩 Featured Project
+
+**Propify – ValoraAI**  
+AI-based real estate platform that predicts property prices and provides intelligent insights for listings.
+
+> More production projects coming soon.
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paramkhodiyar&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paramkhodiyar&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramkhodiyar&layout=compact&theme=radical" />
+  <i>Open to internships, collaborations, and impactful projects.</i>
 </p>
-
----
-
-##  Currently Exploring
-- **ML training with Python using Kaggle Datasets**
--  **TypeScript & Next.js SSR/ISR**
--  **Cross-Platform Mobile Apps with React Native**
