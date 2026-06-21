@@ -92,6 +92,7 @@
 
 **Propify – ValoraAI**  
 AI-based real estate platform that predicts property prices and provides intelligent insights for listings.
+
 **WorkforceOS**
 > More production projects coming soon.
 
