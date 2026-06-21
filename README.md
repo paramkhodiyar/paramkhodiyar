@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Building **Propify – ValoraAI** (AI-powered real estate price prediction platform)  
+- 🚀 Building **WorkforceOS** (HRMS system)  
 - 🌱 Exploring **Full Stack Engineering, Mobile Apps, and ML Training**  
 - 🧠 Focused on **performance, clean architecture, and real-world impact**  
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**  
@@ -92,7 +92,7 @@
 
 **Propify – ValoraAI**  
 AI-based real estate platform that predicts property prices and provides intelligent insights for listings.
-
+**WorkforceOS**
 > More production projects coming soon.
 
 ---
