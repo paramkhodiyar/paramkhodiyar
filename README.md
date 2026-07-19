@@ -11,7 +11,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=paramkhodiyar&theme=date-night&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=paramkhodiyar&rank_icon=percentile&custom_title=My%20work&show_icons=true&include_all_commits=true&theme=flag-india)](https://github-stats-extended.vercel.app/api?username=paramkhodiyar&rank_icon=percentile&custom_title=My%20work&show_icons=true&include_all_commits=true&theme=flag-india)
+</p>
 ---
 
 ## 🧑‍💻 About Me
